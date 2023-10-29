@@ -7,23 +7,23 @@ Usage of Api
 /customers
 
 
-/customers/5  -> get customer by id 
+/customers/5  
 
 
-/customers?name[eq]=Alex  -> name=Alex
+/customers?name[eq]=Alex  
 
 
-/customers?postalCode[gt]=30000  -> postal_code >= 30000
+/customers?postalCode[gt]=30000  
 
 
 
 /invoices
 
 
-/invoices/15   -> get invoice by id
+/invoices/15 
 
 
-/invoices?amount[gt]=100  -> invoices has amounts bigger than 100
+/invoices?amount[gt]=100 
 
 
 etc....
