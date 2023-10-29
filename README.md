@@ -5,6 +5,8 @@ Basic laravel api structure
 Usage of Api
 
 /customers
+
+
 /customers/5  -> get customer by id 
 
 
