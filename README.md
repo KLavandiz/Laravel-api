@@ -5,7 +5,7 @@ Basic laravel api structure
 Usage of Api
 
 /customers
-/customers/5  -> get customer by id
+/customers/5  -> get customer by id \n
 /customers?name[eq]=Alex  -> name=Alex
 /customers?postalCode[gt]=30000  -> postal_code >= 30000
 
